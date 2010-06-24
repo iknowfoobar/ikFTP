@@ -1,0 +1,7 @@
+FTP Class
+
+Allows interaction with an FTP server (remote or local) from within a PHP script
+
+All methods are boolean and an errors property will be populated on any failures.
+
+Find out more and view examples at http://www.iknowfoobar.co.uk/php/php-ftp-class
